@@ -60,3 +60,4 @@ jobs:
           slot-name: ${{ env.SLOT }}
           package: ${{ env.AZURE_APP_PACKAGE_PATH }}
           publish-profile: ${{ env.AZURE_APP_PUBLISH_PROFILE }}
+          
